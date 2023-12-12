@@ -1,3 +1,4 @@
 export const environment = {
-    firebase: {}
+    firebase: {},
+    useEmulators: true
 };

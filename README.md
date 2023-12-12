@@ -20,3 +20,13 @@ npx tailwindcss init
 ````bash
 ng add @angular/fire
 ````
+
+## New Project Setup
+
+### Setup a firebase project
+
+### Init firebase
+
+````bash
+firebase init
+````
